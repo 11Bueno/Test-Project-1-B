@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(8, 31, 23);
+}
+header{
+    background-color: rgb(1, 104, 68);
+    color: black;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
